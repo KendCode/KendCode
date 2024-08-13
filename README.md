@@ -58,9 +58,8 @@ Gracias por pasarte por mi perfil. Si te interesa seguir mi trabajo o conectar e
 <br>
 
 <p align="center">
-  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://www.youtube.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.facebook.com/kender.mendoza.edu"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.instagram.com/kender_mendoza2/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 </p>
 <!-- FOOTER -->
 <div align="center" width="100" style="background-color: #ffffff;">

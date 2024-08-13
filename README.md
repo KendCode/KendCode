@@ -16,6 +16,9 @@
   <h1 style="color: #0d47a1;">Stack Tecnológico</h1>
 
   <h2 style="color: #0d47a1;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b></h2>
+  
+<!-- WIDGETS-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendCode&layout=compact)
 
   <!-- Lenguajes -->
   <h3 style="color: #00695c;">Lenguajes:</h3>
@@ -131,4 +134,5 @@
 <div align="center" style="background-color: #ffffff;">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" />
 </div>
+
 

@@ -105,21 +105,34 @@
   </table>
 
   <!-- Herramientas y Tecnologías -->
-  <h3 style="color: #00695c;">Herramientas y Tecnologías:</h3>
-  <table align="center" style="border-collapse: collapse; width: 50%; background-color: #b2ebf2;">
-    <tr style="background-color: #004d40;">
-      <th style="padding: 10px; color: #ffffff;">Herramienta</th>
-      <th style="padding: 10px; color: #ffffff;">Icono</th>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">Git</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git" /></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">GitHub</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" alt="Github"/></td>
-    </tr>
-  </table>
+<h3 style="color: #00695c;">Herramientas y Tecnologías:</h3>
+<table align="center" style="border-collapse: collapse; width: 50%; background-color: #b2ebf2;">
+  <tr style="background-color: #004d40;">
+    <th style="padding: 10px; color: #ffffff;">Herramienta</th>
+    <th style="padding: 10px; color: #ffffff;">Icono</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">Git</td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git" /></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">GitHub</td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub" /></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">Adobe Illustrator</td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Adobe Illustrator" /></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">Adobe Photoshop</td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Adobe Photoshop" /></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">Adobe Premiere</td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40" height="40" alt="Adobe Premiere" /></td>
+  </tr>
+</table>
+
     
 <!-- SOCIAL MEDIA -->
 <div align="center" style="background-color: #ffffff;">

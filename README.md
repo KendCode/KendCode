@@ -18,7 +18,7 @@
   <h2 style="color: #0d47a1;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b></h2>
   
 <!-- WIDGETS-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendCode&layout=compact&card_width=900&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendCode&layout=compact&custom_title=Lenguajes%20más%20utilizados&card_width=900&langs_count=20)
 
 
   <!-- Lenguajes -->

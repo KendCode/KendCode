@@ -22,118 +22,133 @@
 
 
 
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+
   <!-- Lenguajes -->
-  <h3 style="color: #00695c;">Lenguajes:</h3>
-  <table align="center" style="border-collapse: collapse; width: 50%; background-color: #b2ebf2;">
-    <tr style="background-color: #004d40;">
-      <th style="padding: 10px; color: #ffffff;">Lenguaje</th>
-      <th style="padding: 10px; color: #ffffff;">Icono</th>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">Python</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">JavaScript</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">Java</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" /></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">C#</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">PHP</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" /></td>
-    </tr>
-  </table>
+  <div style="flex: 1; min-width: 300px;">
+    <h3 style="color: #00695c;">Lenguajes:</h3>
+    <table align="center" style="border-collapse: collapse; width: 100%; background-color: #b2ebf2;">
+      <tr style="background-color: #004d40;">
+        <th style="padding: 10px; color: #ffffff;">Lenguaje</th>
+        <th style="padding: 10px; color: #ffffff;">Icono</th>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">Python</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">JavaScript</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">Java</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" /></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">C#</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">PHP</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" /></td>
+      </tr>
+    </table>
+  </div>
 
   <!-- Desarrollo Front-End -->
-  <h3 style="color: #00695c;">Desarrollo Front-End:</h3>
-  <table align="center" style="border-collapse: collapse; width: 50%; background-color: #b2ebf2;">
-    <tr style="background-color: #004d40;">
-      <th style="padding: 10px; color: #ffffff;">Tecnología</th>
-      <th style="padding: 10px; color: #ffffff;">Icono</th>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">HTML</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML" /></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">CSS</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS" /></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">Bootstrap</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" /></td>
-    </tr>
-  </table>
+  <div style="flex: 1; min-width: 300px;">
+    <h3 style="color: #00695c;">Desarrollo Front-End:</h3>
+    <table align="center" style="border-collapse: collapse; width: 100%; background-color: #b2ebf2;">
+      <tr style="background-color: #004d40;">
+        <th style="padding: 10px; color: #ffffff;">Tecnología</th>
+        <th style="padding: 10px; color: #ffffff;">Icono</th>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">HTML</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML" /></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">CSS</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS" /></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">Bootstrap</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" /></td>
+      </tr>
+    </table>
+  </div>
 
   <!-- Bases de Datos -->
-  <h3 style="color: #00695c;">Bases de Datos:</h3>
-  <table align="center" style="border-collapse: collapse; width: 50%; background-color: #b2ebf2;">
-    <tr style="background-color: #004d40;">
-      <th style="padding: 10px; color: #ffffff;">Base de Datos</th>
-      <th style="padding: 10px; color: #ffffff;">Icono</th>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">MySQL</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">SQLite</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" alt="SQLite" /></td>
-    </tr>
-  </table>
+  <div style="flex: 1; min-width: 300px;">
+    <h3 style="color: #00695c;">Bases de Datos:</h3>
+    <table align="center" style="border-collapse: collapse; width: 100%; background-color: #b2ebf2;">
+      <tr style="background-color: #004d40;">
+        <th style="padding: 10px; color: #ffffff;">Base de Datos</th>
+        <th style="padding: 10px; color: #ffffff;">Icono</th>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">MySQL</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">SQLite</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" alt="SQLite" /></td>
+      </tr>
+    </table>
+  </div>
 
   <!-- Desarrollo Móvil -->
-  <h3 style="color: #00695c;">Desarrollo Móvil:</h3>
-  <table align="center" style="border-collapse: collapse; width: 50%; background-color: #b2ebf2;">
-    <tr style="background-color: #004d40;">
-      <th style="padding: 10px; color: #ffffff;">Tecnología</th>
-      <th style="padding: 10px; color: #ffffff;">Icono</th>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">Android Studio</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" /></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">Kotlin</td>
-      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /></td>
-    </tr>
-  </table>
+  <div style="flex: 1; min-width: 300px;">
+    <h3 style="color: #00695c;">Desarrollo Móvil:</h3>
+    <table align="center" style="border-collapse: collapse; width: 100%; background-color: #b2ebf2;">
+      <tr style="background-color: #004d40;">
+        <th style="padding: 10px; color: #ffffff;">Tecnología</th>
+        <th style="padding: 10px; color: #ffffff;">Icono</th>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">Android Studio</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" /></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">Kotlin</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /></td>
+      </tr>
+    </table>
+  </div>
 
   <!-- Herramientas y Tecnologías -->
-<h3 style="color: #00695c;">Herramientas y Tecnologías:</h3>
-<table align="center" style="border-collapse: collapse; width: 50%; background-color: #b2ebf2;">
-  <tr style="background-color: #004d40;">
-    <th style="padding: 10px; color: #ffffff;">Herramienta</th>
-    <th style="padding: 10px; color: #ffffff;">Icono</th>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">Git</td>
-    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git" /></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">GitHub</td>
-    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub" /></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">Adobe Illustrator</td>
-    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Adobe Illustrator" /></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">Adobe Photoshop</td>
-    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Adobe Photoshop" /></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">Adobe Premiere</td>
-    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40" height="40" alt="Adobe Premiere" /></td>
-  </tr>
-</table>
+  <div style="flex: 1; min-width: 300px;">
+    <h3 style="color: #00695c;">Herramientas y Tecnologías:</h3>
+    <table align="center" style="border-collapse: collapse; width: 100%; background-color: #b2ebf2;">
+      <tr style="background-color: #004d40;">
+        <th style="padding: 10px; color: #ffffff;">Herramienta</th>
+        <th style="padding: 10px; color: #ffffff;">Icono</th>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">Git</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git" /></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">GitHub</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub" /></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">Adobe Illustrator</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Adobe Illustrator" /></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">Adobe Photoshop</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Adobe Photoshop" /></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">Adobe Premiere</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40" height="40" alt="Adobe Premiere" /></td>
+      </tr>
+    </table>
+  </div>
+
+</div>
+
 
     
 <!-- SOCIAL MEDIA -->

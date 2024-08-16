@@ -1,17 +1,18 @@
-<!-- HEADER -->
-<div align="center" style="background-color: #ffffff;">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Kender%20Mendoza%20(KendCode)&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn" alt="header"/>
-</div>
 <!-- INTRODUCTION -->
 <div align="center" style="background-color: #e0f7fa;">
-  <h1 style="color: #00796b;">Bienvenido a mi perfil de GitHub</h1>
+  <h1 style="color: #00796b;">Bienvenido a mi perfil de GitHub <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="40px">, soy Kender Mendoza</h1>
   <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300px" />
-  <h2 style="color: #004d40;">Hola <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="40px">, soy Kender Mendoza</h2>
+  <br> </br>
   <p style="color: #004d40;" width="35px">Soy un estudiante de Sistemas Informáticos y un desarrollador apasionado por la tecnología. Siempre estoy buscando aprender y crecer en el mundo del desarrollo de software, explorando nuevas tecnologías y perfeccionando mis habilidades. Me encanta enfrentar desafíos y encontrar soluciones innovadoras, trabajando tanto en proyectos personales como colaborativos. ¡Mi objetivo es crear un impacto positivo en el mundo a través de la tecnología y la educación!</p>
+ 
 </div>
 <!-- ICONS -->
 <div align="center" style="background-color: #ffffff; padding: 20px;">
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <h2 style="color: #0d47a1;">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+    <b> Lenguajes, Desarrollo Front-End, Base de datos, Desarrollo Movil, Herramientas y Tecnología</b>
+  </h2>
     <!-- Lenguajes -->
     <div style="margin: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
@@ -69,8 +70,4 @@
     <a href="https://www.facebook.com/kender.mendoza.edu"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook" /></a>
     <a href="https://www.instagram.com/kender_mendoza2/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" /></a>
   </p>
-</div>
-<!-- FOOTER -->
-<div align="center" style="background-color: #ffffff;">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" />
 </div>

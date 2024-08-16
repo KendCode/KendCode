@@ -57,9 +57,9 @@
   </h2>
   
   <!-- WIDGETS-->
-  ![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=KendCode&show_icons=true&theme=dark) 
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KendCode&theme=dark)
+  ![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=KendCode&show_icons=true&theme=dark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendCode&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KendCode&theme=dark)
   ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KendCode&theme=react-dark)
   
 <!-- SOCIAL MEDIA -->

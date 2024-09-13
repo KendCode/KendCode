@@ -2,8 +2,7 @@
 <div align="center" style="background-color: #e0f7fa;">
   <h1 style="color: #00796b;">Bienvenido a mi perfil de GitHub <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="40px">, soy Kender Mendoza</h1>
   <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300px" />
-  <br> </br>
-  <p style="color: #004d40;" width="35px">Soy un estudiante de Sistemas Informáticos y un desarrollador apasionado por la tecnología. Siempre estoy buscando aprender y crecer en el mundo del desarrollo de software, explorando nuevas tecnologías y perfeccionando mis habilidades. Me encanta enfrentar desafíos y encontrar soluciones innovadoras, trabajando tanto en proyectos personales como colaborativos. ¡Mi objetivo es crear un impacto positivo en el mundo a través de la tecnología y la educación!</p>
+  <br>
  
 </div>
 <!-- ICONS -->

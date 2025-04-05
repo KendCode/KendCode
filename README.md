@@ -36,7 +36,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jQuery" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" alt="Node.js" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" height="70" alt="Laravel" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="50" alt="Composer" />
     </div>
   </div>
 
@@ -72,6 +72,7 @@
       <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="50" alt="Notion" />
     </div>
   </div>
 </div>

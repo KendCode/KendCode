@@ -6,7 +6,7 @@
  
 </div>
 <!-- ICONS -->
-<div align="center" style="background-color: #000; padding: 80px;">
+<div align="center" style="background-color: #ffffff; padding: 20px;">
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <h2 style="color: #0d47a1;">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">

@@ -12,7 +12,10 @@
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
     <b> Lenguajes, Desarrollo Front-End, Base de datos, Desarrollo Movil, Herramientas y Tecnología</b>
   </h2>
-    <!-- Lenguajes -->
+    
+  <!-- Lenguajes de Programación -->
+  <div style="margin: 20px;">
+    <h3>Lenguajes de Programación</h3>
     <div style="margin: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
@@ -20,37 +23,53 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
     </div>
-    <!-- Desarrollo Front-End -->
-  <div style="margin: 5px;">
+  </div>
+
+  <!-- Desarrollo Front-End -->
+  <div style="margin: 20px;">
+    <h3>Desarrollo Front-End</h3>
+    <div style="margin: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="45" height="45" alt="XAMPP" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="45" height="45" alt="Composer" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="45" height="45" alt="Laravel" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" />
     </div>
-    <!-- Bases de Datos -->
-  <div style="margin: 5px;">
+  </div>
+
+  <!-- Bases de Datos -->
+  <div style="margin: 20px;">
+    <h3>Bases de Datos</h3>
+    <div style="margin: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="45" height="45" alt="SQLite" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45" height="45" alt="MariaDB" />
     </div>
-    <!-- Desarrollo Móvil -->
-  <div style="margin: 5px;">
+  </div>
+
+  <!-- Desarrollo Móvil -->
+  <div style="margin: 20px;">
+    <h3>Desarrollo Móvil</h3>
+    <div style="margin: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45" alt="Android Studio" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin" />
     </div>
-    <!-- Herramientas y Tecnologías -->
-  <div style="margin: 5px;">
+  </div>
+
+  <!-- Herramientas y Tecnologías -->
+  <div style="margin: 20px;">
+    <h3>Herramientas y Tecnologías</h3>
+    <div style="margin: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45" alt="GitHub" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" height="45" alt="Adobe Illustrator" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" height="45" alt="Adobe Photoshop" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="45" height="45" alt="Adobe Premiere" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="45" height="45" alt="Firebase" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" height="45" alt="Adobe Photoshop" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="45" height="45" alt="Adobe Premiere" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" height="45" alt="Adobe Illustrator" />
     </div>
   </div>
 </div>
+
 <!-- STACK -->
 <div align="center" style="background-color: #ffffff;">
   <h2 style="color: #0d47a1;">
